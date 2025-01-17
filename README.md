@@ -43,6 +43,9 @@ Please submit your work by:
 1. Cloning this repository
 2. Creating a new repository under your own GitHub account
 3. Pushing your solution to your repository
-4. Inviting https://github.com/stephaniegoldman12 as a collaborator to view your work
+4. Adding a screenshot comparison to the repo showing the rendered React component, so it's easy to compare the original PowerPoint slide to the React component render result:
+   - Original PowerPoint slide (SampleSlide.pptx)
+   - Your React component render result
+5. Inviting https://github.com/stephaniegoldman12 as a collaborator to view your work
 
 Good luck!
