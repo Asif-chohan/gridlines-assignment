@@ -1,0 +1,348 @@
+[
+    {
+        "SlideItemType": "AutoShape",
+        "AutoShapeType": "Rectangle",
+        "Rotation": 0,
+        "Height": 38.77503937007874,
+        "Left": 49.2151968503937,
+        "ShapeId": 4,
+        "TextBody": {
+            "Paragraphs": [
+                {
+                    "Text": "Title here",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#156082",
+                                "FontName": "Aptos",
+                                "FontSize": 26
+                            },
+                            "Text": "Title here"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "NotDefined"
+                    }
+                }
+            ],
+            "Text": "Title here",
+            "WrapText": false,
+            "AnchorCenter": false,
+            "VerticalAlignment": "Top",
+            "TextDirection": "Horizontal"
+        },
+        "Top": 37.36708661417323,
+        "Width": 118.69291338582677
+    },
+    {
+        "SlideItemType": "AutoShape",
+        "AutoShapeType": "Rectangle",
+        "Rotation": 0,
+        "Height": 24.234409448818898,
+        "Left": 48.455748031496064,
+        "ShapeId": 5,
+        "TextBody": {
+            "Paragraphs": [
+                {
+                    "Text": "Section",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#156082",
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Section"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "NotDefined"
+                    }
+                }
+            ],
+            "Text": "Section",
+            "WrapText": false,
+            "AnchorCenter": false,
+            "VerticalAlignment": "Top",
+            "TextDirection": "Horizontal"
+        },
+        "Top": 118.63291338582677,
+        "Width": 60.98984251968504
+    },
+    {
+        "Info": "Circular reference detected for type: Shape"
+    },
+    {
+        "SlideItemType": "AutoShape",
+        "AutoShapeType": "Rectangle",
+        "Rotation": 0,
+        "Height": 24.234409448818898,
+        "Left": 342.2279527559055,
+        "ShapeId": 7,
+        "TextBody": {
+            "Paragraphs": [
+                {
+                    "Text": "Section",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#156082",
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Section"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "NotDefined"
+                    }
+                }
+            ],
+            "Text": "Section",
+            "WrapText": false,
+            "AnchorCenter": false,
+            "VerticalAlignment": "Top",
+            "TextDirection": "Horizontal"
+        },
+        "Top": 118.02535433070867,
+        "Width": 60.98984251968504
+    },
+    {
+        "SlideItemType": "AutoShape",
+        "AutoShapeType": "Rectangle",
+        "Rotation": 0,
+        "Height": 109.05472440944882,
+        "Left": 48.91149606299213,
+        "ShapeId": 8,
+        "TextBody": {
+            "Paragraphs": [
+                {
+                    "Text": "Bullet points",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#4EA72E",
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Bullet points"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "FontName": "Arial",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "Bulleted"
+                    }
+                },
+                {
+                    "Text": "Indent 1",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#4EA72E",
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Indent 1"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "FontName": "Arial",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "Bulleted"
+                    },
+                    "IndentLevelNumber": 1
+                },
+                {
+                    "Text": "Indent 2",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#4EA72E",
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Indent 2"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "FontName": "Arial",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "Bulleted"
+                    },
+                    "IndentLevelNumber": 1
+                },
+                {
+                    "Text": "Bullet points",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#4EA72E",
+                                "Bold": true,
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Bullet points"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "FontName": "Arial",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "Bulleted"
+                    }
+                },
+                {
+                    "Text": "Bullet points",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#156082",
+                                "Italic": true,
+                                "FontName": "Aptos",
+                                "FontSize": 14
+                            },
+                            "Text": "Bullet points"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "FontName": "Arial",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "Bulleted"
+                    }
+                },
+                {
+                    "Text": "",
+                    "HorizontalAlignment": "Left",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "FontName": "Aptos",
+                                "FontSize": 18
+                            },
+                            "Text": ""
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "FontName": "Arial",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "Bulleted"
+                    },
+                    "Font": {
+                        "FontName": "Aptos",
+                        "FontSize": 18
+                    },
+                    "EndParagraphFont": {
+                        "Color": "#4EA72E",
+                        "FontName": "Aptos",
+                        "FontSize": 14
+                    }
+                }
+            ],
+            "Text": "Bullet points\rIndent 1\rIndent 2\rBullet points\rBullet points\r",
+            "WrapText": false,
+            "AnchorCenter": false,
+            "VerticalAlignment": "Top",
+            "TextDirection": "Horizontal"
+        },
+        "Top": 181.0632283464567,
+        "Width": 123.34283464566929
+    },
+    {
+        "SlideItemType": "AutoShape",
+        "AutoShapeType": "Rectangle",
+        "Rotation": 0,
+        "Height": 47.14291338582677,
+        "Left": 512.5714173228347,
+        "ShapeId": 2,
+        "TextBody": {
+            "Paragraphs": [
+                {
+                    "Text": "Header text",
+                    "HorizontalAlignment": "Center",
+                    "TextParts": [
+                        {
+                            "Font": {
+                                "Color": "#FFFFFF",
+                                "FontName": "Aptos",
+                                "FontSize": 18
+                            },
+                            "Text": "Header text"
+                        }
+                    ],
+                    "ListFormat": {
+                        "NumberStyle": "AlphaLcPeriod",
+                        "BulletCharacter": "\u2022",
+                        "Color": "#000000",
+                        "Size": 150,
+                        "StartValue": 1,
+                        "Type": "NotDefined"
+                    }
+                }
+            ],
+            "Text": "Header text",
+            "WrapText": true,
+            "AnchorCenter": false,
+            "VerticalAlignment": "Middle",
+            "TextDirection": "Horizontal"
+        },
+        "Top": 229.71425196850393,
+        "Width": 363.42858267716537
+    },
+    {
+        "SlideItemType": "AutoShape",
+        "AutoShapeType": "RightArrow",
+        "Rotation": 0,
+        "Height": 45.42858267716535,
+        "Left": 222.8571653543307,
+        "ShapeId": 3,
+        "Top": 384,
+        "Width": 119.1428346456693
+    }
+]
