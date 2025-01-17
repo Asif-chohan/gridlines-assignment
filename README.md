@@ -1,7 +1,7 @@
 # Interview Task: PowerPoint JSON to React Converter
 
 ## Background
-You are given a JSON file that represents a PowerPoint presentation (SampleSlide.pptx) in Syncfusion format. The JSON structure mirrors Syncfusion's PowerPoint object model, which includes:
+You are given a JSON file (sample_slide.json) that represents a PowerPoint presentation (SampleSlide.pptx) in Syncfusion format. The JSON structure mirrors Syncfusion's PowerPoint object model, which includes:
 
 - Shapes (IShape interface) - representing elements like:
   - AutoShapes
@@ -37,5 +37,12 @@ The candidate will be evaluated on their ability to:
 1. Python script that performs the conversion
 2. Brief documentation explaining the approach and mapping between Syncfusion and React concepts
 3. Any assumptions or limitations of the implementation
+
+## Submission
+Please submit your work by:
+1. Cloning this repository
+2. Creating a new repository under your own GitHub account
+3. Pushing your solution to your repository
+4. Inviting https://github.com/stephaniegoldman12 as a collaborator to view your work
 
 Good luck!
